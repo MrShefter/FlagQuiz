@@ -1,0 +1,1370 @@
+{
+  "question": [
+    {
+      "id": "France",
+      "response1": "france",
+      "response2": "espagne",
+      "response3": "italie",
+      "response": "response1"
+    },
+    {
+      "id": "Spain",
+      "response1": "italie",
+      "response2": "france",
+      "response3": "espagne",
+      "response": "response3"
+    },
+    {
+      "id": "Italy",
+      "response1": "espagne",
+      "response2": "italie",
+      "response3": "france",
+      "response": "response2"
+    },
+    {
+      "id": "Mexico",
+      "response1": "chine",
+      "response2": "coree_du_sud",
+      "response3": "mexique",
+      "response": "response3"
+    },
+    {
+      "id": "China",
+      "response1": "mexique",
+      "response2": "coree_du_sud",
+      "response3": "chine",
+      "response": "response3"
+    },
+    {
+      "id": "Bosnia and Herzegovina",
+      "response1": "bosnie_herzegovine",
+      "response2": "serbie",
+      "response3": "croatie",
+      "response": "response1"
+    },
+    {
+      "id": "Croatia",
+      "response1": "bosnie_herzegovine",
+      "response2": "croatie",
+      "response3": "serbie",
+      "response": "response2"
+    },
+    {
+      "id": "South Korea",
+      "response1": "coree_du_nord",
+      "response2": "coree_du_sud",
+      "response3": "japon",
+      "response": "response2"
+    },
+    {
+      "id": "North Korea",
+      "response1": "japon",
+      "response2": "coree_du_sud",
+      "response3": "coree_du_nord",
+      "response": "response3"
+    },
+    {
+      "id": "Japan",
+      "response1": "coree_du_sud",
+      "response2": "japon",
+      "response3": "coree_du_nord",
+      "response": "response2"
+    },
+    {
+      "id": "New Zealand",
+      "response1": "australie",
+      "response2": "royaume_uni",
+      "response3": "nouvelle_zelande",
+      "response": "response3"
+    },
+    {
+      "id": "Australia",
+      "response1": "royaume_uni",
+      "response2": "australie",
+      "response3": "nouvelle_zelande",
+      "response": "response2"
+    },
+    {
+      "id": "United Kingdom",
+      "response1": "royaume_uni",
+      "response2": "nouvelle_zelande",
+      "response3": "australie",
+      "response": "response1"
+    },
+    {
+      "id": "Saint Kitts and Nevis",
+      "response1": "saint_christophe_et_nieves",
+      "response2": "sahara_occidental",
+      "response3": "saint_vincent_et_les_grenadines",
+      "response": "response1"
+    },
+    {
+      "id": "Western Sahara",
+      "response1": "saint_christophe_et_nieves",
+      "response2": "saint_vincent_et_les_grenadines",
+      "response3": "sahara_occidental",
+      "response": "response3"
+    },
+    {
+      "id": "St. Vincent and the Grenadines",
+      "response1": "sahara_occidental",
+      "response2": "saint_vincent_et_les_grenadines",
+      "response3": "saint_christophe_et_nieves",
+      "response": "response2"
+    },
+    {
+      "id": "Malaysia",
+      "response1": "thailande",
+      "response2": "malaisie",
+      "response3": "indonesie",
+      "response": "response2"
+    },
+    {
+      "id": "Thailand",
+      "response1": "malaisie",
+      "response2": "thailande",
+      "response3": "indonesie",
+      "response": "response2"
+    },
+    {
+      "id": "Indonesia",
+      "response1": "indonesie",
+      "response2": "malaisie",
+      "response3": "thailande",
+      "response": "response1"
+    },
+    {
+      "id": "Kyrgyzstan",
+      "response1": "tadjikistan",
+      "response2": "kirghizistan",
+      "response3": "ouzbekistan",
+      "response": "response2"
+    },
+    {
+      "id": "Tajikistan",
+      "response1": "tadjikistan",
+      "response2": "kirghizistan",
+      "response3": "ouzbekistan",
+      "response": "response1"
+    },
+    {
+      "id": "Uzbekistan",
+      "response1": "kirghizistan",
+      "response2": "tadjikistan",
+      "response3": "ouzbekistan",
+      "response": "response3"
+    },
+    {
+      "id": "Moldova",
+      "response1": "roumanie",
+      "response2": "ukraine",
+      "response3": "moldavie",
+      "response": "response3"
+    },
+    {
+      "id": "Ukraine",
+      "response1": "roumanie",
+      "response2": "ukraine",
+      "response3": "moldavie",
+      "response": "response2"
+    },
+    {
+      "id": "Germany",
+      "response1": "allemagne",
+      "response2": "belgique",
+      "response3": "roumanie",
+      "response": "response1"
+    },
+    {
+      "id": "Belgium",
+      "response1": "roumanie",
+      "response2": "allemagne",
+      "response3": "belgique",
+      "response": "response3"
+    },
+    {
+      "id": "Romania",
+      "response1": "allemagne",
+      "response2": "roumanie",
+      "response3": "belgique",
+      "response": "response2"
+    },
+    {
+      "id": "Algeria",
+      "response1": "libye",
+      "response2": "maroc",
+      "response3": "algerie",
+      "response": "response3"
+    },
+    {
+      "id": "Morocco",
+      "response1": "libye",
+      "response2": "maroc",
+      "response3": "algerie",
+      "response": "response2"
+    },
+    {
+      "id": "Libya",
+      "response1": "libye",
+      "response2": "maroc",
+      "response3": "algerie",
+      "response": "response1"
+    },
+    {
+      "id": "Andorra",
+      "response1": "liechtenstein",
+      "response2": "andorre",
+      "response3": "albanie",
+      "response": "response2"
+    },
+    {
+      "id": "Liechtenstein",
+      "response1": "albanie",
+      "response2": "andorre",
+      "response3": "liechtenstein",
+      "response": "response3"
+    },
+    {
+      "id": "Albania",
+      "response1": "albanie",
+      "response2": "andorre",
+      "response3": "liechtenstein",
+      "response": "response1"
+    },
+    {
+      "id": "Macedonia",
+      "response1": "serbie",
+      "response2": "bulgarie",
+      "response3": "macedoine",
+      "response": "response3"
+    },
+    {
+      "id": "Serbia",
+      "response1": "serbie",
+      "response2": "bulgarie",
+      "response3": "macedoine",
+      "response": "response1"
+    },
+    {
+      "id": "Bulgaria",
+      "response1": "macedoine",
+      "response2": "bulgarie",
+      "response3": "serbie",
+      "response": "response2"
+    },
+    {
+      "id": "Slovakia",
+      "response1": "slovaquie",
+      "response2": "croatie",
+      "response3": "slovenie",
+      "response": "response1"
+    },
+    {
+      "id": "Mongolia",
+      "response1": "mongolie",
+      "response2": "birmanie",
+      "response3": "namibie",
+      "response": "response1"
+    },
+    {
+      "id": "Namibia",
+      "response1": "birmanie",
+      "response2": "namibie",
+      "response3": "mongolie",
+      "response": "response2"
+    },
+    {
+      "id": "Burma",
+      "response1": "birmanie",
+      "response2": "mongolie",
+      "response3": "namibie",
+      "response": "response1"
+    },
+    {
+      "id": "Kiribati",
+      "response1": "fidji",
+      "response2": "tuvalu",
+      "response3": "kiribati",
+      "response": "response3"
+    },
+    {
+      "id": "Fiji",
+      "response1": "fidji",
+      "response2": "tuvalu",
+      "response3": "kiribati",
+      "response": "response1"
+    },
+    {
+      "id": "Tuvalu",
+      "response1": "fidji",
+      "response2": "tuvalu",
+      "response3": "kiribati",
+      "response": "response2"
+    },
+    {
+      "id": "Burundi",
+      "response1": "djibouti",
+      "response2": "tanzanie",
+      "response3": "burundi",
+      "response": "response3"
+    },
+    {
+      "id": "Tanzania",
+      "response1": "burundi",
+      "response2": "tanzanie",
+      "response3": "djibouti",
+      "response": "response2"
+    },
+    {
+      "id": "Djibouti",
+      "response1": "burundi",
+      "response2": "tanzanie",
+      "response3": "djibouti",
+      "response": "response3"
+    },
+    {
+      "id": "Bolivia",
+      "response1": "perou",
+      "response2": "bolivie",
+      "response3": "chili",
+      "response": "response2"
+    },
+    {
+      "id": "Peru",
+      "response1": "perou",
+      "response2": "bolivie",
+      "response3": "chili",
+      "response": "response1"
+    },
+    {
+      "id": "Chile",
+      "response1": "perou",
+      "response2": "bolivie",
+      "response3": "chili",
+      "response": "response3"
+    },
+    {
+      "id": "Slovenia",
+      "response1": "slovaquie",
+      "response2": "slovenie",
+      "response3": "croatie",
+      "response": "response2"
+    },
+    {
+      "id": "Zimbabwe",
+      "response1": "timor_oriental",
+      "response2": "zimbabwe",
+      "response3": "vanuatu",
+      "response": "response2"
+    }
+    ,
+    {
+        "id": "East Timor",
+        "response1": "vanuatu",
+        "response2": "zimbabwe",
+        "response3": "timor_oriental",
+        "response": "response3"
+    },
+    {
+      "id": "Vanuatu",
+      "response1": "vanuatu",
+      "response2": "zimbabwe",
+      "response3": "timor_oriental",
+      "response": "response1"
+    },
+    {
+      "id": "Afghanistan",
+      "response1": "afrique_du_sud",
+      "response2": "afghanistan",
+      "response3": "albanie",
+      "response": "response2"
+    },
+    {
+      "id": "South Africa",
+      "response1": "afrique_du_sud",
+      "response2": "afghanistan",
+      "response3": "angola",
+      "response": "response1"
+    },
+    {
+      "id": "Angola",
+      "response1": "afrique_du_sud",
+      "response2": "afghanistan",
+      "response3": "angola",
+      "response": "response3"
+    },
+    {
+      "id": "Antigua and Barbuda",
+      "response1": "antigua_et_barbuda",
+      "response2": "arabie_saoudite",
+      "response3": "argentine",
+      "response": "response1"
+    },
+    {
+      "id": "Saudi Arabia",
+      "response1": "antigua_et_barbuda",
+      "response2": "arabie_saoudite",
+      "response3": "argentine",
+      "response": "response2"
+    },
+    {
+      "id": "Argentina",
+      "response1": "antigua_et_barbuda",
+      "response2": "arabie_saoudite",
+      "response3": "argentine",
+      "response": "response3"
+    },
+    {
+      "id": "Armenia",
+      "response1": "armenie",
+      "response2": "autriche",
+      "response3": "azerbaidjan",
+      "response": "response1"
+    },
+    {
+      "id": "Austria",
+      "response1": "armenie",
+      "response2": "autriche",
+      "response3": "azerbaidjan",
+      "response": "response2"
+    },
+    {
+      "id": "Azerbaijan",
+      "response1": "armenie",
+      "response2": "autriche",
+      "response3": "azerbaidjan",
+      "response": "response3"
+    },
+    {
+      "id": "Bahamas",
+      "response1": "bahamas",
+      "response2": "bahrein",
+      "response3": "bangladesh",
+      "response": "response1"
+    },
+    {
+      "id": "Bahrein",
+      "response1": "bahamas",
+      "response2": "bahrein",
+      "response3": "bangladesh",
+      "response": "response2"
+    },
+    {
+      "id": "Bangladesh",
+      "response1": "bahamas",
+      "response2": "bahrein",
+      "response3": "bangladesh",
+      "response": "response3"
+    },
+    {
+      "id": "Barbados",
+      "response1": "barbade",
+      "response2": "belize",
+      "response3": "benin",
+      "response": "response1"
+    },
+    {
+      "id": "Belize",
+      "response1": "barbade",
+      "response2": "belize",
+      "response3": "benin",
+      "response": "response2"
+    },
+    {
+      "id": "Benin",
+      "response1": "barbade",
+      "response2": "belize",
+      "response3": "benin",
+      "response": "response3"
+    },
+    {
+      "id": "Bhutan",
+      "response1": "bhoutan",
+      "response2": "bielorussie",
+      "response3": "botswana",
+      "response": "response1"
+    },
+    {
+      "id": "Belarus",
+      "response1": "bhoutan",
+      "response2": "bielorussie",
+      "response3": "botswana",
+      "response": "response2"
+    },
+    {
+      "id": "Botswana",
+      "response1": "bhoutan",
+      "response2": "bielorussie",
+      "response3": "botswana",
+      "response": "response3"
+    },
+    {
+      "id": "Brazil",
+      "response1": "bresil",
+      "response2": "brunei",
+      "response3": "burkina_faso",
+      "response": "response1"
+    },
+    {
+      "id": "Brunei",
+      "response1": "bresil",
+      "response2": "brunei",
+      "response3": "burkina_faso",
+      "response": "response2"
+    },
+    {
+      "id": "Burkina Faso",
+      "response1": "bresil",
+      "response2": "brunei",
+      "response3": "burkina_faso",
+      "response": "response3"
+    },
+    {
+      "id": "Cambodia",
+      "response1": "cambodge",
+      "response2": "cameroun",
+      "response3": "canada",
+      "response": "response1"
+    },
+    {
+      "id": "Cameroon",
+      "response1": "cambodge",
+      "response2": "cameroun",
+      "response3": "canada",
+      "response": "response2"
+    },
+    {
+      "id": "Canada",
+      "response1": "cambodge",
+      "response2": "cameroun",
+      "response3": "canada",
+      "response": "response3"
+    },
+    {
+      "id": "Cape Verde",
+      "response1": "cap_vert",
+      "response2": "centrafrique",
+      "response3": "chypre",
+      "response": "response1"
+    },
+    {
+      "id": "Central African Republic",
+      "response1": "cap_vert",
+      "response2": "centrafrique",
+      "response3": "chypre",
+      "response": "response2"
+    },
+    {
+      "id": "Cyprus",
+      "response1": "cap_vert",
+      "response2": "centrafrique",
+      "response3": "chypre",
+      "response": "response3"
+    },
+    {
+      "id": "Colombia",
+      "response1": "colombie",
+      "response2": "comores",
+      "response3": "congo_brazzaville",
+      "response": "response1"
+    },
+    {
+      "id": "Comoros",
+      "response1": "colombie",
+      "response2": "comores",
+      "response3": "congo_brazzaville",
+      "response": "response2"
+    },
+    {
+      "id": "Congo Brazzaville",
+      "response1": "colombie",
+      "response2": "comores",
+      "response3": "congo_brazzaville",
+      "response": "response3"
+    },
+    {
+      "id": "Costa Rica",
+      "response1": "costa_rica",
+      "response2": "cote_ivoire",
+      "response3": "cuba",
+      "response": "response1"
+    },
+    {
+      "id": "Ivory Coast",
+      "response1": "costa_rica",
+      "response2": "cote_ivoire",
+      "response3": "cuba",
+      "response": "response2"
+    },
+    {
+      "id": "Cuba",
+      "response1": "costa_rica",
+      "response2": "cote_ivoire",
+      "response3": "cuba",
+      "response": "response3"
+    },
+    {
+      "id": "Denmark",
+      "response1": "danemark",
+      "response2": "dominique",
+      "response3": "egypte",
+      "response": "response1"
+    },
+    {
+      "id": "Dominica",
+      "response1": "danemark",
+      "response2": "dominique",
+      "response3": "egypte",
+      "response": "response2"
+    },
+    {
+      "id": "Egypt",
+      "response1": "danemark",
+      "response2": "dominique",
+      "response3": "egypte",
+      "response": "response3"
+    },
+    {
+      "id": "United Arab Emirates",
+      "response1": "emirats_arabes_unis",
+      "response2": "equateur",
+      "response3": "erythree",
+      "response": "response1"
+    },
+    {
+      "id": "Equator",
+      "response1": "emirats_arabes_unis",
+      "response2": "equateur",
+      "response3": "erythree",
+      "response": "response2"
+    },
+    {
+      "id": "Eritrea",
+      "response1": "emirats_arabes_unis",
+      "response2": "equateur",
+      "response3": "erythree",
+      "response": "response3"
+    },
+    {
+      "id": "Estonia",
+      "response1": "estonie",
+      "response2": "etats_unis",
+      "response3": "ethiopie",
+      "response": "response1"
+    },
+    {
+      "id": "United States",
+      "response1": "estonie",
+      "response2": "etats_unis",
+      "response3": "ethiopie",
+      "response": "response2"
+    },
+    {
+      "id": "Ethiopia",
+      "response1": "estonie",
+      "response2": "etats_unis",
+      "response3": "ethiopie",
+      "response": "response3"
+    },
+    {
+      "id": "Finland",
+      "response1": "finlande",
+      "response2": "gabon",
+      "response3": "gambie",
+      "response": "response1"
+    },
+    {
+      "id": "Gabon",
+      "response1": "finlande",
+      "response2": "gabon",
+      "response3": "gambie",
+      "response": "response2"
+    },
+    {
+      "id": "Gambia",
+      "response1": "finlande",
+      "response2": "gabon",
+      "response3": "gambie",
+      "response": "response3"
+    },
+    {
+      "id": "Georgia",
+      "response1": "georgie",
+      "response2": "ghana",
+      "response3": "grece",
+      "response": "response1"
+    },
+    {
+      "id": "Ghana",
+      "response1": "georgie",
+      "response2": "ghana",
+      "response3": "grece",
+      "response": "response2"
+    },
+    {
+      "id": "Greece",
+      "response1": "georgie",
+      "response2": "ghana",
+      "response3": "grece",
+      "response": "response3"
+    },
+    {
+      "id": "Grenada",
+      "response1": "grenade",
+      "response2": "guatemala",
+      "response3": "guinee_bissau",
+      "response": "response1"
+    },
+    {
+      "id": "Guatemala",
+      "response1": "grenade",
+      "response2": "guatemala",
+      "response3": "guinee_bissau",
+      "response": "response2"
+    },
+    {
+      "id": "Guinea-Bissau",
+      "response1": "grenade",
+      "response2": "guatemala",
+      "response3": "guinee_bissau",
+      "response": "response3"
+    },
+    {
+      "id": "Equatorial Guinea",
+      "response1": "guinee_equatoriale",
+      "response2": "guinee",
+      "response3": "guyana",
+      "response": "response1"
+    },
+    {
+      "id": "Guinea",
+      "response1": "guinee_equatoriale",
+      "response2": "guinee",
+      "response3": "guyana",
+      "response": "response2"
+    },
+    {
+      "id": "Guyana",
+      "response1": "guinee_equatoriale",
+      "response2": "guinee",
+      "response3": "guyana",
+      "response": "response3"
+    },
+    {
+      "id": "Haiti",
+      "response1": "haiti",
+      "response2": "honduras",
+      "response3": "hongrie",
+      "response": "response1"
+    },
+    {
+      "id": "Honduras",
+      "response1": "haiti",
+      "response2": "honduras",
+      "response3": "hongrie",
+      "response": "response2"
+    },
+    {
+      "id": "Hungary",
+      "response1": "haiti",
+      "response2": "honduras",
+      "response3": "hongrie",
+      "response": "response3"
+    },
+    {
+      "id": "Solomon Islands",
+      "response1": "iles_salomon",
+      "response2": "inde",
+      "response3": "indonesie",
+      "response": "response1"
+    },
+    {
+      "id": "India",
+      "response1": "iles_salomon",
+      "response2": "inde",
+      "response3": "indonesie",
+      "response": "response2"
+    },
+    {
+      "id": "Indonesia",
+      "response1": "iles_salomon",
+      "response2": "inde",
+      "response3": "indonesie",
+      "response": "response3"
+    },
+    {
+      "id": "Iraq",
+      "response1": "irak",
+      "response2": "iran",
+      "response3": "irlande",
+      "response": "response1"
+    },
+    {
+      "id": "Iran",
+      "response1": "irak",
+      "response2": "iran",
+      "response3": "irlande",
+      "response": "response2"
+    },
+    {
+      "id": "Ireland",
+      "response1": "irak",
+      "response2": "iran",
+      "response3": "irlande",
+      "response": "response3"
+    },
+    {
+      "id": "Iceland",
+      "response1": "islande",
+      "response2": "israel",
+      "response3": "jamaique",
+      "response": "response1"
+    },
+    {
+      "id": "Israel",
+      "response1": "islande",
+      "response2": "israel",
+      "response3": "jamaique",
+      "response": "response2"
+    },
+    {
+      "id": "Jamaica",
+      "response1": "islande",
+      "response2": "israel",
+      "response3": "jamaique",
+      "response": "response3"
+    },
+    {
+      "id": "Jordan",
+      "response1": "jordanie",
+      "response2": "kenya",
+      "response3": "kazakhstan",
+      "response": "response1"
+    },
+    {
+      "id": "Kenya",
+      "response1": "jordanie",
+      "response2": "kenya",
+      "response3": "kazakhstan",
+      "response": "response2"
+    },
+    {
+      "id": "Kazakhstan",
+      "response1": "jordanie",
+      "response2": "kenya",
+      "response3": "kazakhstan",
+      "response": "response3"
+    },
+    {
+      "id": "Kosovo",
+      "response1": "kosovo",
+      "response2": "koweit",
+      "response3": "laos",
+      "response": "response1"
+    },
+    {
+      "id": "Kuwait",
+      "response1": "kosovo",
+      "response2": "koweit",
+      "response3": "laos",
+      "response": "response2"
+    },
+    {
+      "id": "Laos",
+      "response1": "kosovo",
+      "response2": "koweit",
+      "response3": "laos",
+      "response": "response3"
+    },
+    {
+      "id": "Lesotho",
+      "response1": "lesotho",
+      "response2": "lettonie",
+      "response3": "liban",
+      "response": "response1"
+    },
+    {
+      "id": "Latvia",
+      "response1": "lesotho",
+      "response2": "lettonie",
+      "response3": "liban",
+      "response": "response2"
+    },
+    {
+      "id": "Lebanon",
+      "response1": "lesotho",
+      "response2": "lettonie",
+      "response3": "liban",
+      "response": "response3"
+    },
+    {
+      "id": "Liberia",
+      "response1": "liberia",
+      "response2": "luxembourg",
+      "response3": "madagascar",
+      "response": "response1"
+    },
+    {
+      "id": "Luxembourg",
+      "response1": "liberia",
+      "response2": "luxembourg",
+      "response3": "madagascar",
+      "response": "response2"
+    },
+    {
+      "id": "Madagascar",
+      "response1": "liberia",
+      "response2": "luxembourg",
+      "response3": "madagascar",
+      "response": "response3"
+    },
+    {
+      "id": "Malawi",
+      "response1": "malawi",
+      "response2": "maldives",
+      "response3": "mali",
+      "response": "response1"
+    },
+    {
+      "id": "Maldive Islands",
+      "response1": "malawi",
+      "response2": "maldives",
+      "response3": "mali",
+      "response": "response2"
+    },
+    {
+      "id": "Mali",
+      "response1": "malawi",
+      "response2": "maldives",
+      "response3": "mali",
+      "response": "response3"
+    },
+    {
+      "id": "Malta",
+      "response1": "malte",
+      "response2": "marshall",
+      "response3": "maurice",
+      "response": "response1"
+    },
+    {
+      "id": "Marshall",
+      "response1": "malte",
+      "response2": "marshall",
+      "response3": "maurice",
+      "response": "response2"
+    },
+    {
+      "id": "Mauritius",
+      "response1": "malte",
+      "response2": "marshall",
+      "response3": "maurice",
+      "response": "response3"
+    },
+    {
+      "id": "Mauritania",
+      "response1": "mauritanie",
+      "response2": "micronesie",
+      "response3": "monaco",
+      "response": "response1"
+    },
+    {
+      "id": "Micronesia",
+      "response1": "mauritanie",
+      "response2": "micronesie",
+      "response3": "monaco",
+      "response": "response2"
+    },
+    {
+      "id": "Monaco",
+      "response1": "mauritanie",
+      "response2": "micronesie",
+      "response3": "monaco",
+      "response": "response3"
+    },
+    {
+      "id": "Montenegro",
+      "response1": "montenegro",
+      "response2": "mozambique",
+      "response3": "nauru",
+      "response": "response1"
+    },
+    {
+      "id": "Mozambique",
+      "response1": "montenegro",
+      "response2": "mozambique",
+      "response3": "nauru",
+      "response": "response2"
+    },
+    {
+      "id": "Nauru",
+      "response1": "montenegro",
+      "response2": "mozambique",
+      "response3": "nauru",
+      "response": "response3"
+    },
+    {
+      "id": "Népal",
+      "response1": "nepal",
+      "response2": "nicaragua",
+      "response3": "niger",
+      "response": "response1"
+    },
+    {
+      "id": "Nicaragua",
+      "response1": "nepal",
+      "response2": "nicaragua",
+      "response3": "niger",
+      "response": "response2"
+    },
+    {
+      "id": "Niger",
+      "response1": "nepal",
+      "response2": "nicaragua",
+      "response3": "niger",
+      "response": "response3"
+    },
+    {
+      "id": "Nigeria",
+      "response1": "nigeria",
+      "response2": "norvege",
+      "response3": "oman",
+      "response": "response1"
+    },
+    {
+      "id": "Norway",
+      "response1": "nigeria",
+      "response2": "norvege",
+      "response3": "oman",
+      "response": "response2"
+    },
+    {
+      "id": "Oman",
+      "response1": "nigeria",
+      "response2": "norvege",
+      "response3": "oman",
+      "response": "response3"
+    },
+    {
+      "id": "Uganda",
+      "response1": "ouganda",
+      "response2": "pakistan",
+      "response3": "palaos",
+      "response": "response1"
+    },
+    {
+      "id": "Pakistan",
+      "response1": "ouganda",
+      "response2": "pakistan",
+      "response3": "palaos",
+      "response": "response2"
+    },
+    {
+      "id": "Palau",
+      "response1": "ouganda",
+      "response2": "pakistan",
+      "response3": "palaos",
+      "response": "response3"
+    },
+    {
+      "id": "Panama",
+      "response1": "panama",
+      "response2": "papouasie_nouvelle_guinee",
+      "response3": "paraguay",
+      "response": "response1"
+    },
+    {
+      "id": "Papua New Guinea",
+      "response1": "panama",
+      "response2": "papouasie_nouvelle_guinee",
+      "response3": "paraguay",
+      "response": "response2"
+    },
+    {
+      "id": "Paraguay",
+      "response1": "panama",
+      "response2": "papouasie_nouvelle_guinee",
+      "response3": "paraguay",
+      "response": "response3"
+    },
+    {
+      "id": "Holland",
+      "response1": "pays_bas",
+      "response2": "philippines",
+      "response3": "pologne",
+      "response": "response1"
+    },
+    {
+      "id": "Philippines",
+      "response1": "pays_bas",
+      "response2": "philippines",
+      "response3": "pologne",
+      "response": "response2"
+    },
+    {
+      "id": "Poland",
+      "response1": "pays_bas",
+      "response2": "philippines",
+      "response3": "pologne",
+      "response": "response3"
+    },
+    {
+      "id": "Qatar",
+      "response1": "qatar",
+      "response2": "portugal",
+      "response3": "republique_democratique_du_congo",
+      "response": "response1"
+    },
+    {
+      "id": "Portugal",
+      "response1": "qatar",
+      "response2": "portugal",
+      "response3": "republique_democratique_du_congo",
+      "response": "response2"
+    },
+    {
+      "id": "Democratic Republic of the Congo",
+      "response1": "qatar",
+      "response2": "portugal",
+      "response3": "republique_democratique_du_congo",
+      "response": "response3"
+    },
+    {
+      "id": "Dominican Republic",
+      "response1": "republique_dominicaine",
+      "response2": "republique_tcheque",
+      "response3": "rwanda",
+      "response": "response1"
+    },
+    {
+      "id": "Czech Republic",
+      "response1": "republique_dominicaine",
+      "response2": "republique_tcheque",
+      "response3": "rwanda",
+      "response": "response2"
+    },
+    {
+      "id": "Rwanda",
+      "response1": "republique_dominicaine",
+      "response2": "republique_tcheque",
+      "response3": "rwanda",
+      "response": "response3"
+    },
+    {
+      "id": "St Martin",
+      "response1": "saint_martin",
+      "response2": "sainte_lucie",
+      "response3": "salvador",
+      "response": "response1"
+    },
+    {
+      "id": "Saint Lucia",
+      "response1": "saint_martin",
+      "response2": "sainte_lucie",
+      "response3": "salvador",
+      "response": "response2"
+    },
+    {
+      "id": "El Salvador",
+      "response1": "saint_martin",
+      "response2": "sainte_lucie",
+      "response3": "salvador",
+      "response": "response3"
+    },
+    {
+      "id": "Samoa",
+      "response1": "samoa",
+      "response2": "sao_tome_et_principe",
+      "response3": "senegal",
+      "response": "response1"
+    },
+    {
+      "id": "São Tomé and Príncipe",
+      "response1": "samoa",
+      "response2": "sao_tome_et_principe",
+      "response3": "senegal",
+      "response": "response2"
+    },
+    {
+      "id": "Senegal",
+      "response1": "samoa",
+      "response2": "sao_tome_et_principe",
+      "response3": "senegal",
+      "response": "response3"
+    },
+    {
+      "id": "Seychelles",
+      "response1": "seychelles",
+      "response2": "sierra_leone",
+      "response3": "singapour",
+      "response": "response1"
+    },
+    {
+      "id": "Sierra Leone",
+      "response1": "seychelles",
+      "response2": "sierra_leone",
+      "response3": "singapour",
+      "response": "response2"
+    },
+    {
+      "id": "Singapore",
+      "response1": "seychelles",
+      "response2": "sierra_leone",
+      "response3": "singapour",
+      "response": "response3"
+    },
+    {
+      "id": "Somalia",
+      "response1": "somalie",
+      "response2": "soudan",
+      "response3": "sri_lanka",
+      "response": "response1"
+    },
+    {
+      "id": "Sudan",
+      "response1": "somalie",
+      "response2": "soudan",
+      "response3": "sri_lanka",
+      "response": "response2"
+    },
+    {
+      "id": "Sri Lanka",
+      "response1": "somalie",
+      "response2": "soudan",
+      "response3": "sri_lanka",
+      "response": "response3"
+    },
+    {
+      "id": "Sweden",
+      "response1": "suede",
+      "response2": "suisse",
+      "response3": "suriname",
+      "response": "response1"
+    },
+    {
+      "id": "Switzerland",
+      "response1": "suede",
+      "response2": "suisse",
+      "response3": "suriname",
+      "response": "response2"
+    },
+    {
+      "id": "Suriname",
+      "response1": "suede",
+      "response2": "suisse",
+      "response3": "suriname",
+      "response": "response3"
+    },
+    {
+      "id": "Swaziland",
+      "response1": "swaziland",
+      "response2": "syrie",
+      "response3": "taiwan",
+      "response": "response1"
+    },
+    {
+      "id": "Syria",
+      "response1": "swaziland",
+      "response2": "syrie",
+      "response3": "taiwan",
+      "response": "response2"
+    },
+    {
+      "id": "Taiwan",
+      "response1": "swaziland",
+      "response2": "syrie",
+      "response3": "taiwan",
+      "response": "response3"
+    },
+    {
+      "id": "Chad",
+      "response1": "tchad",
+      "response2": "togo",
+      "response3": "tonga",
+      "response": "response1"
+    },
+    {
+      "id": "Togo",
+      "response1": "tchad",
+      "response2": "togo",
+      "response3": "tonga",
+      "response": "response2"
+    },
+    {
+      "id": "Tonga",
+      "response1": "tchad",
+      "response2": "togo",
+      "response3": "tonga",
+      "response": "response3"
+    },
+    {
+      "id": "Trinidad and Tobago",
+      "response1": "trinite_et_tobago",
+      "response2": "tunisie",
+      "response3": "turkmenistan",
+      "response": "response1"
+    },
+    {
+      "id": "Tunisia",
+      "response1": "trinite_et_tobago",
+      "response2": "tunisie",
+      "response3": "turkmenistan",
+      "response": "response2"
+    },
+    {
+      "id": "Turkmenistan",
+      "response1": "trinite_et_tobago",
+      "response2": "tunisie",
+      "response3": "turkmenistan",
+      "response": "response3"
+    },
+    {
+      "id": "Turkey",
+      "response1": "turquie",
+      "response2": "uruguay",
+      "response3": "vatican",
+      "response": "response1"
+    },
+    {
+      "id": "Uruguay",
+      "response1": "turquie",
+      "response2": "uruguay",
+      "response3": "vatican",
+      "response": "response2"
+    },
+    {
+      "id": "Vatican",
+      "response1": "turquie",
+      "response2": "uruguay",
+      "response3": "vatican",
+      "response": "response3"
+    },
+    {
+      "id": "Venezuela",
+      "response1": "venezuela",
+      "response2": "viet_nam",
+      "response3": "yemen",
+      "response": "response1"
+    },
+    {
+      "id": "VietNam",
+      "response1": "venezuela",
+      "response2": "viet_nam",
+      "response3": "yemen",
+      "response": "response2"
+    },
+    {
+      "id": "Yemen",
+      "response1": "venezuela",
+      "response2": "viet_nam",
+      "response3": "yemen",
+      "response": "response3"
+    },
+    {
+      "id": "Zambia",
+      "response1": "venezuela",
+      "response2": "zambie",
+      "response3": "yemen",
+      "response": "response2"
+    }
+  ]
+}
